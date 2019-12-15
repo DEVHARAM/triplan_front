@@ -1,4 +1,4 @@
-# TRIPLAN BACK
+# TRIPLAN FRONT
 
 ## in local (current working directory -> triplan_front/static)
 1. cp settings-local-sample.js settings-local.js
